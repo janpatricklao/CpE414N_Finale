@@ -1,0 +1,9 @@
+hametsu.12345.2!ash.12345.1
+
+
+char temp;
+
+temp = getch();
+
+if(temp == 32)
+	cout<<"You pressed space!";
